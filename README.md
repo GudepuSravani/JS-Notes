@@ -8,7 +8,7 @@ css:style(colors,layout,design)
 javascript: behavior(actions& login)
 
 steps:
-vARIABLES,
+VARIABLES,
 DATA TYPES,
 OPRATORS,
 CONDITIONS(IF,ELSE),
@@ -16,7 +16,7 @@ LOOPS(FOR, WHILE),
 FUNCTIONS,
 =
 
-DOM(web interaction)
+>DOM(web interaction)
 > document.getElementById
 > events(click,submit)
 > form validation

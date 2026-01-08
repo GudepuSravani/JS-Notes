@@ -7,13 +7,13 @@ HTML: Structure(text,button,imgaes)
 css:style(colors,layout,design)
 javascript: behavior(actions& login)
 
-steps::::
-vARIABLES
-DATA TYPES
-OPRATORS
-CONDITIONS(IF,ELSE)
-LOOPS(FOR, WHILE)
-FUNCTIONS
+steps:
+vARIABLES,
+DATA TYPES,
+OPRATORS,
+CONDITIONS(IF,ELSE),
+LOOPS(FOR, WHILE),
+FUNCTIONS,
 =
 
 DOM(web interaction)

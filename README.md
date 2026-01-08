@@ -1,1 +1,24 @@
 # JS-Notes
+what is javascript?
+=
+js is programing launage used to make websites interactive and dynamic.
+if a website can respond to clicks, show pop-ups, validate forms,animate content,orload data without refreshing, that's javascript working behind the scenes.
+HTML: Structure(text,button,imgaes)
+css:style(colors,layout,design)
+javascript: behavior(actions& login)
+
+steps::::
+vARIABLES
+DATA TYPES
+OPRATORS
+CONDITIONS(IF,ELSE)
+LOOPS(FOR, WHILE)
+FUNCTIONS
+=
+
+DOM(web interaction)
+> document.getElementById
+> events(click,submit)
+> form validation
+> changing html/css using js
+>=

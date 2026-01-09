@@ -24,4 +24,4 @@ FUNCTIONS,
 >=
 
 what is variable ?
-variable it can store the variable.it also keyword.
+variable it can store the variable.it also keyword.si

@@ -26,3 +26,10 @@ FUNCTIONS,
 what is variable ?
 variable it can store the variable.it also keyword.
 js
+
+javascript numbers
+js has only one type of number.numbers can be written with or whithout decimal.
+example: var x = 3.14;
+decimals
+         var y = 3;
+decimals

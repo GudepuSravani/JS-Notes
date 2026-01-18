@@ -15,14 +15,12 @@ CONDITIONS(IF,ELSE),
 LOOPS(FOR, WHILE),
 FUNCTIONS,
 =
-
 >DOM(web interaction)
 > document.getElementById
 > events(click,submit)
 > form validation
 > changing html/css using js
 >=
-
 what is variable ?
 variable it can store the variable.it also keyword.
 js
@@ -33,3 +31,5 @@ example: var x = 3.14;
 decimals
          var y = 3;
 decimals
+
+dgfyouseyfuewurouwo8ue8ru8weu30rfwe9r397qyD8O8QGFUIYE8

@@ -31,5 +31,3 @@ example: var x = 3.14;
 decimals
          var y = 3;
 decimals
-
-dgfyouseyfuewurouwo8ue8ru8weu30rfwe9r397qyD8O8QGFUIYE8

@@ -31,3 +31,6 @@ example: var x = 3.14;
 decimals
          var y = 3;
 decimals
+
+
+javascript it can esay to understandable to user.

@@ -20,7 +20,8 @@ FUNCTIONS,
 > events(click,submit)
 > form validation
 > changing html/css using js
->=
+=
+>
 what is variable ?
 variable it can store the variable.it also keyword.
 js

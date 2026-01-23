@@ -33,5 +33,6 @@ decimals
          var y = 3;
 decimals
 
-javascript it can esay to understandable to user.
-sraahui hello     world
+
+what i can learn in the now day
+7 types of companies coming to compus companies

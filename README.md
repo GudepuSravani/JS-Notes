@@ -34,5 +34,3 @@ decimals
 decimals
 
 
-what i can learn in the now day
-7 types of 

@@ -33,4 +33,19 @@ decimals
          var y = 3;
 decimals
 
+sravanigudepu varibles and operators and type conversion and typeof
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

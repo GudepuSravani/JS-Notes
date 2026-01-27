@@ -32,10 +32,29 @@ example: var x = 3.14;
 decimals
          var y = 3;
 decimals
+# variables: 
+used to store data:
+1.)variable: var is older js, it can be redeclared,  reassigned, function scoped(not block scoped)
+example: 
+var x = 10;
+var x = 20; //Allowed(re-declare)
+x = 30;     //Allowed(re-assign)
+console.log(x);
 
-sravanigudepu varibles and operators and type conversion and typeof
 
+2.)let : Blocked scoped{} , cannot be re-declared in same scope , can be re-assigned
+example:
+let y =10;
+ //let y=20; ERROR(cannot redeclare)
+y=23;  //Allowed
+console.log(y);
 
+3.) const : blocked scope , cannot be re-declared,cannot be re-assigned.
+example: IT CANNOT CHANGED THE VALUES
+const z =100;
+    ///z =200;    ERROR
+    ///const z;   ERROR
+console.log(z);
 
 
 

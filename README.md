@@ -59,7 +59,7 @@ console.log(z);
 
 
 
-
+java script is scripying languages,.
 
 
 

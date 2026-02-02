@@ -56,6 +56,15 @@ const z =100;
     ///const z;   ERROR
 console.log(z);
 
+1. What is JavaScript?
+A: JavaScript is a programming language used to make web pages interactive (buttons, forms, animations, etc.).
+
+2.What is variables?
+A: var,let,const.
+
+3. what is datatype?
+A: interger,string,
+
 
 
 

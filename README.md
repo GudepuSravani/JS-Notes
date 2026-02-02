@@ -56,9 +56,6 @@ const z =100;
     ///const z;   ERROR
 console.log(z);
 
-java script is scripying languages,.
-new one lanching
-
 
 
 

@@ -63,7 +63,8 @@ A: JavaScript is a programming language used to make web pages interactive (butt
 A: var,let,const.
 
 3. what is datatype?
-A: interger,string,boolean,etc.
+A: interger,string,boolean, float,char,etc.
+
 
 
 

@@ -69,7 +69,7 @@ A: interger,string,boolean, float,char,etc.
 A function that remembers variables from its outer scope.
 
 6. what is Hoisting ?
-JavaScript moves variable annd function5
+JavaScript moves variable annd functions declarations to top before exection
 
 
 

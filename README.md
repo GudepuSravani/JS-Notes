@@ -65,9 +65,11 @@ A: var,let,const.
 3. what is datatype?
 A: interger,string,boolean, float,char,etc.
 
+4.what is closure ?
+A function that remembers variables from its outer scope.
 
-sravani goud
-
+6. what is Hoisting ?
+JavaScript moves variable annd function5
 
 
 

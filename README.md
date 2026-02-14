@@ -21,7 +21,7 @@ FUNCTIONS,
 > form validation
 > changing html/css using js
 =
->
+
 what is variable ?
 variable it can store the variable.it also keyword.
 js
@@ -40,7 +40,6 @@ var x = 10;
 var x = 20; //Allowed(re-declare)
 x = 30;     //Allowed(re-assign)
 console.log(x);
-
 
 2.)let : Blocked scoped{} , cannot be re-declared in same scope , can be re-assigned
 example:

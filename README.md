@@ -67,9 +67,10 @@ A: interger,string,boolean, float,char,etc.
 4.what is closure ?
 A function that remembers variables from its outer scope.
 
-6. what is Hoisting ?
-JavaScript moves variable annd functions declarations to top before exection
+5. what is Hoisting ?
+JavaScript moves variable annd functions declarations to top before exection.
 
+6.what is constant?
 
 
 

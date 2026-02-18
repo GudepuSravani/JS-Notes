@@ -70,7 +70,13 @@ A function that remembers variables from its outer scope.
 5. what is Hoisting ?
 JavaScript moves variable annd functions declarations to top before exection.
 
-6.what is constant?
+6.Why Python is Called Interpreted?
+
+Because:
+✔️ No separate compile step for you
+✔️ Runs directly
+✔️ Easy to debug
+✔️ Errors shown immediately
 
 
 
